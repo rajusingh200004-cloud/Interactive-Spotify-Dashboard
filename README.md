@@ -46,4 +46,11 @@ A cleaned Spotify streaming dataset covering 2023–2024 containing:
 
 ## Example DAX Measures (Power BI)
 
-https://app.powerbi.com/view?r=eyJrIjoiYjk2NDJiNTgtZjBmOS00YjI3LWEyMjYtMTRjZjcyN2ExN2M3IiwidCI6ImYzZDJiMzRkLWYxNTQtNGVmZi04NGExLWU0ZWJiMTUwYTliOSJ9
+**Get intractive Dashboard :- ** [https://app.powerbi.com/view?r=eyJrIjoiNDY1MjFjOGYtMzkyYy00YzdlLWJlNmUtNDg5ODA2MGI3ZjE2IiwidCI6ImYzZDJiMzRkLWYxNTQtNGVmZi04NGExLWU0ZWJiMTUwYTliOSJ9
+](https://app.powerbi.com/view?r=eyJrIjoiYjk2NDJiNTgtZjBmOS00YjI3LWEyMjYtMTRjZjcyN2ExN2M3IiwidCI6ImYzZDJiMzRkLWYxNTQtNGVmZi04NGExLWU0ZWJiMTUwYTliOSJ9)
+
+🚀 Explore the full repository for documentation, visuals, and setup instructions.
+
+Created by Raju Singh – Senior Business Analyst | Power BI Specialist | Data Analytics & Automation
+
+
